@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fengshan3618
 - 👀 I’m interested in learn coding first.
 - 🌱 I’m currently learning Python for beginner.
-- 💞️ I’m looking to collaborate, once I am capable to do so.
+- 💞️ I’m looking to collaborate, once I am capable of.
 - 📫 I can be reached: fengshanyu@gmail.com.
 
 <!---
