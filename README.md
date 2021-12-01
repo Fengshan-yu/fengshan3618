@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fengshan Yu @fengshan3618
+- 👋 Hi, I’m Fengshan Yu 
 - 👀 I’m interested in learn coding first.
 - 🌱 I’m currently learning Python for beginner.
 - 💞️ I’m looking to collaborate, once I am capable of.
