@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fengshan Yu 
-- 👀 I have a medical degree and earned my ECFMG certificate
+- 👀 I have a medical degree and earned my ECFMG certificate in the United States
 - Had a MS in Neurobiology and further training in neuroscience research at Stanford University and NIH.
 - 🌱 I’m currently a PCEP-Ceritified Entry-Level Python Programmer.
 - 💞️ I’m looking to collaborate, once I am capable of.
