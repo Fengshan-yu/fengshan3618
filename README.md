@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fengshan Yu 
-- 👀 I have a medical degree and earned my ECFMG certificate in the United States
-- 👀 I did graduate study in Neurobiology and were further trained in neuroscience research at Stanford University and NIH.
-- 🌱 I’m currently PCAP-Ceritified Associate in Python Programming.
-- 💞️ I’m looking to collaborate, once I am capable of.
+- 👀 I have a medical degree and earned my ECFMG certificate in the United States.
+- 👀 I am a neuroscientist dedicated in area of traumatic brain injury and spinal cord injury.
+- 🌱 I earned PCAP and PCPP1 Ceritificates from Python Institute.
+- 💞️ I completed Applied Data Science with Python Specialization by University of Michigan on Coursera in 2023.
 - 📫 I can be reached: fengshanyu@gmail.com.
 
 <!---
